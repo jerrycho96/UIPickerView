@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "UIPickerView/AppDelegate.swift"
+            timestampString = "545810214.068516"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "7"
+            endingLineNumber = "7"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UIPickerView.AppDelegate.__deallocating_deinit"
+                  moduleName = "UIPickerView"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/d7703_26/Documents/3%E1%84%87%E1%85%A1%E1%86%AB/UIPickerView/UIPickerView/AppDelegate.swift"
+                  timestampString = "545809822.952336"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UIPickerView.AppDelegate.__allocating_init() -&gt; UIPickerView.AppDelegate"
+                  moduleName = "UIPickerView"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/d7703_26/Documents/3%E1%84%87%E1%85%A1%E1%86%AB/UIPickerView/UIPickerView/AppDelegate.swift"
+                  timestampString = "545809822.955881"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UIPickerView.AppDelegate.init() -&gt; UIPickerView.AppDelegate"
+                  moduleName = "UIPickerView"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/d7703_26/Documents/3%E1%84%87%E1%85%A1%E1%86%AB/UIPickerView/UIPickerView/AppDelegate.swift"
+                  timestampString = "545809822.957839"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "24">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "UIPickerView"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/d7703_26/Documents/3%E1%84%87%E1%85%A1%E1%86%AB/UIPickerView/UIPickerView/AppDelegate.swift"
+                  timestampString = "545809822.9597861"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "4">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
